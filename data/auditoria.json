@@ -1,0 +1,67 @@
+{
+  "faltan_coordenadas": [],
+  "centros": 505,
+  "localizados": 505,
+  "capas": [
+    [
+      "Marginación CONAPO",
+      2243
+    ],
+    [
+      "Fecundidad Censo 2020",
+      2414
+    ],
+    [
+      "Pob 3 a 5 años que no asiste a la escuela Censo 2020",
+      2414
+    ],
+    [
+      "Tasa de natalidad",
+      2414
+    ],
+    [
+      "Población de 0 a 2 años CENSO",
+      2414
+    ],
+    [
+      "Cobertura alcaldía 0 a 2 años",
+      16
+    ],
+    [
+      "Alcaldías",
+      16
+    ],
+    [
+      "Iniciales particulares",
+      90
+    ],
+    [
+      "Iniciales autónomos",
+      6
+    ],
+    [
+      "Iniciales federales",
+      30
+    ],
+    [
+      "Iniciales otros",
+      368
+    ],
+    [
+      "Iniciales matrícula cero",
+      103
+    ],
+    [
+      "Iniciales general tasa",
+      494
+    ],
+    [
+      "Iniciales general",
+      494
+    ],
+    [
+      "Marginalidad y violencia urbana",
+      1815
+    ]
+  ]
+}
